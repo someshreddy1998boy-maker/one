@@ -212,9 +212,7 @@
             margin-bottom: 20px;
         }
 
-        .hero p {
-            font-size: 18px;
-            margin-bottom: 30px;
+      
         }
 
         .btn {
