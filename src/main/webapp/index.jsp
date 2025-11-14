@@ -334,10 +334,7 @@
             font-weight: 600;
         }
 
-        .product-img {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
+     
         }
 
         .product-info {
