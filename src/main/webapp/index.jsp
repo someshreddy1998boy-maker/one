@@ -240,10 +240,6 @@
             transform: translateY(-2px);
         }
 
-        .btn-secondary {
-            background-color: transparent;
-            color: white;
-            border: 2px solid white;
         }
 
         .btn-secondary:hover {
