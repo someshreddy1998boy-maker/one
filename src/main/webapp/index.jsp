@@ -23,10 +23,7 @@
         }
 
         body {
-            font-family: 'Inter', sans-serif;
-            color: var(--dark);
-            background-color: white;
-            line-height: 1.6;
+            
         }
 
         h1, h2, h3, h4 {
